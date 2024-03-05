@@ -1,5 +1,4 @@
 # zkSync Era: Welcome to zkSync Hardhat plugins repository
-
 ![Era Logo](https://github.com/matter-labs/era-contracts/raw/main/eraLogo.svg)
 
 zkSync Era is a layer 2 rollup that uses zero-knowledge proofs to scale Ethereum without compromising on security or
